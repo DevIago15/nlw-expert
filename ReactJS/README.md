@@ -15,10 +15,10 @@ Começamos a aula baixando componentes e frameworks que serão utilizados para a
  - NodeJS instalado a partir do navegador
  - Tailwind é basicamente um bootstrap que acelera a criação de css ordenanda via API e padroniza o css do projeto. Instalado também a partir do terminal.
 
- ## 06/02/2024 - 2 Aula
+## 06/02/2024 - 2 Aula
  Aula focada em conceitos de propriedades, estados e modais(dialogs)
 
  Utilizamos o framework Radix para a criação de modais.
  Utilizamos o framework Sonners para criar alertas.
  
- ## 07/02/2024 - 3 Aula
+## 07/02/2024 - 3 Aula
